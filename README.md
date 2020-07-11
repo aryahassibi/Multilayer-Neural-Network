@@ -2,8 +2,6 @@
 This [Neural Network](#neural-network) is written in Python (3.7.6) <br>
 All of the matrix calculations of this neural network are done by [NumPy](https://numpy.org/)(1.9.6)
 
-## **Neural Network**
-
 Multilayer networks solve the classification problem for non linear sets by employing hidden layers, whose neurons are not directly connected to the output.
 > *note:* The Activation function of this neural network is the ***sigmoid*** function 
 ### *HOW TO WORK WITH neuralNetwork.py:*
