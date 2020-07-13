@@ -1,4 +1,4 @@
-# Multilayer-Neural-Network
+# Multilayer Neural Network
 This [Neural Network](#neural-network) is written in Python (3.7.6) <br>
 All of the matrix calculations of this neural network are done by [NumPy](https://numpy.org/)(1.9.6)
 
