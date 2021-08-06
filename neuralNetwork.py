@@ -74,7 +74,7 @@ class NeuralNetwork:
             self.layer[i] = sigmoid_vectorized(self.layer[i])
 
         # self.layer[-1] refers to last layer which is output layer
-        output = self.layer[-1].tolist()
+        output = self.layer[-1].T.tolist()[0]
         return output
 
     def train(self, inputs_list, targets_list):
